@@ -3,8 +3,6 @@ Product modeling establishes and enforces a process to capture user needs and de
 
 This is a list of potential things you'll want to consider when defining a product or feature. Usage is contingent on the scale and risk of the product or feature and the confidence in the user segment listed. This is a work in progress.
 
----
-
 ## General
 
 ### Problem and Value Proposition
@@ -19,8 +17,6 @@ Responsible
 Accountable
 Consulted
 Informed
-
----
 
 ## Value Proposition
 Simplifies complex ideas into quickly readable illustrations with only the most practical, important details.
